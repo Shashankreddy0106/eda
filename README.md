@@ -3,7 +3,7 @@ Exploratory Data Analysis On Amazon Dataset
 
 ## 📒 Notebook
 You can view the full Jupyter Notebook here:  
-[Amazon Sales EDA Notebook](amazon-sales-dataset-eda.ipynb)
+https://github.com/user-attachments/files/22391792/amazon-sales-dataset-eda.1.ipynb
 
 
 
