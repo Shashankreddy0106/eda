@@ -1,4 +1,4 @@
-# eda
+# Exploratory Data Analysis
 Exploratory Data Analysis On Amazon Dataset
 
 # Amazon Sales Data - Exploratory Data Analysis (EDA)
